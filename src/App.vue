@@ -114,8 +114,8 @@ export default {
       const options = {
         method: 'GET',
         headers: {
-          'X-RapidAPI-Host': 'sudoku-generator1.p.rapidapi.com',
-          'X-RapidAPI-Key': '09257c700fmshb27c672d9779169p17440bjsnec7d27135e3f'
+          'X-RapidAPI-Host': '',
+          'X-RapidAPI-Key': ''
         }
       };
 
@@ -139,8 +139,8 @@ export default {
         const options = {
           method: 'GET',
           headers: {
-            'X-RapidAPI-Host': 'sudoku-generator1.p.rapidapi.com',
-            'X-RapidAPI-Key': '09257c700fmshb27c672d9779169p17440bjsnec7d27135e3f'
+            'X-RapidAPI-Host': '',
+            'X-RapidAPI-Key': ''
           }
         };
 
